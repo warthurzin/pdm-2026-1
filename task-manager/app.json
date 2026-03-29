@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "expo-01",
-    "slug": "expo-01",
+    "name": "task-manager",
+    "slug": "task-manager",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -47,14 +47,14 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "9858e7ed-da74-4f2b-8fa2-f07544205e7d"
+        "projectId": "1eeb6af4-a26d-4826-89e2-ca10132c00ad"
       }
     },
     "runtimeVersion": {
       "policy": "appVersion"
     },
     "updates": {
-      "url": "https://u.expo.dev/9858e7ed-da74-4f2b-8fa2-f07544205e7d"
+      "url": "https://u.expo.dev/1eeb6af4-a26d-4826-89e2-ca10132c00ad"
     }
   }
 }
